@@ -25,5 +25,10 @@
     断言:
       function myPerson(person: number | string) : number {
         return (<string>person).length
-      } 
+      }
+  
+  2. 断言不是转换, 锻压成一个联合类型不存在的类型是不允许的
+    function toBoolean(something: string | number): boolean {
+      return <boolean>something; // 失败
+    }
 ```
