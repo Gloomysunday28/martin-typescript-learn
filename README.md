@@ -14,3 +14,6 @@
    - [Martin之Typescript的类型别名和字符串字面量类型](https://github.com/Gloomysunday28/martin-typescript-learn/tree/master/Typescript/advanced/TypeAlias)
    - [Martin之Typescript的元组](https://github.com/Gloomysunday28/martin-typescript-learn/tree/master/Typescript/advanced/Touple)
    - [Martin之Typescript的枚举](https://github.com/Gloomysunday28/martin-typescript-learn/tree/master/Typescript/advanced/Enum)
+   - [Martin之Typescript的类](https://github.com/Gloomysunday28/martin-typescript-learn/tree/master/Typescript/advanced/Class)
+   - [Martin之Typescript的类的实现](https://github.com/Gloomysunday28/martin-typescript-learn/tree/master/Typescript/advanced/Implements)
+   - [Martin之Typescript的泛型](https://github.com/Gloomysunday28/martin-typescript-learn/tree/master/Typescript/advanced/Generics)
